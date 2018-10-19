@@ -1,0 +1,21 @@
+*{
+	margin: auto;
+}
+.box{
+	margin-top: 10%; 
+	border-style: groove;
+	width: 30%;
+	padding: 2%;
+}
+.box ul{
+	font-size: 20px;
+	padding: 2%;
+}
+.botao{
+	width: 12%;
+	text-align: center;
+	border-style: groove;
+	border-color: silver;
+	background-color: silver;
+	border-radius: 10%;
+}
