@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>TELA DE LOGIN</title>
+	<title>EFETUAR LOGIN</title>
 	<link rel="stylesheet" type="text/css" href="tela_login.css">
 </head>
 <body>
