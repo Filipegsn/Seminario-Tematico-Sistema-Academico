@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CADASTRAR ALUNO</title>
+	<title>CADASTRO DE ALUNO</title>
 	<link rel="stylesheet" type="text/css" href="cadastro_aluno.css">
 </head>
 <body>
 	<div class="background">
+		<div class="topo"></div>
 		<div class="box">
 			<div class="logo">
 				<img src="logo.png">
@@ -15,16 +16,16 @@
 			<ul>Matricula</ul>
 				<input autofocus type="txt" name="login" placeholder="Insira a Matricula" required/>
 			<ul>Curso
-				<input type="txt" name="curso" placeholder="Escoha o Curso" required/>
-				<select>
-					<option>curso1</option>
-					<option>curso2</option>
-					<option>curso3</option>
+				<!--<input type="txt" name="curso" placeholder="Escoha o Curso" required/>-->
+				<select name="nome_curso">
+					<option value="">Administração</option>
+					<option>Gastronomia</option>
+					<option>Direito</option>
 				</select>
 			</ul>
 			<ul>Turno
-				<input type="txt" name="turno" placeholder="Escoha o Turno" required/>
-				<select>
+				<!--<input type="txt" name="turno" placeholder="Escoha o Turno" required/>-->
+				<select name="turno">
 					<option>Matutino</option>
 					<option>Vespertino</option>
 					<option>Noturno</option>
