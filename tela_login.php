@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="tela_login.css">
 </head>
 <body>
-	<div class="img_login">
+	<div class="background">
 		<div class="box">
 			<div class="logo">
 				<img src="logo.png">
