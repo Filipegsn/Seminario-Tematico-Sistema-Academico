@@ -2,7 +2,7 @@
 	margin: auto;
 }
 .box{
-	margin-top: 10%; 
+	margin-top: 4%; 
 	border-style: groove;
 	border-radius: 2%;
 	width: 40%;
@@ -39,11 +39,31 @@
 	margin-top: 5%;
 }
 .background{
-    background-image: url('plano_de_fundo.jpg');
+    background-image: url('download.jpg');
     background-size: 100%;
     bottom: 0;
     left: 0;
     position: absolute;
     right: 0;
     top: 0;
+}
+
+.nome{
+	margin-left: -110px;
+	
+}
+.matricula{
+	margin-left: -75px;
+}
+.curso{
+	margin-left: 0px; 
+}
+.turno1{
+	margin-left: 20px;
+}
+.func{
+	margin-left: 15px;
+}
+.senha{
+	margin-left: -105px;
 }
